@@ -2,6 +2,8 @@
 
 REST API for pharmacy management and medicine ordering with MongoDB Atlas, JWT authentication, bcryptjs password hashing, and Role-Based Access Control (RBAC).
 
+Deployed Link: https://pharmacy-management-api-fg0b.onrender.com/
+
 ## Tech Stack
 
 - Node.js
