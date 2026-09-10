@@ -159,9 +159,3 @@ When an order changes from `pending` to `approved`, stock is decremented atomica
 | View expiring medicines | No | Yes | Yes |
 
 `*` Staff registration is protected by the configured `ADMIN_KEY`.
-
-## Notes
-
-MongoDB transactions require a replica set or MongoDB Atlas deployment. MongoDB Atlas supports the required transaction functionality.
-
-Do not commit `.env` to GitHub.
